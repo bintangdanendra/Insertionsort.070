@@ -9,7 +9,7 @@ void input()
     while (true)
     {
         cout << "Masukkan Jumlah Data pada Array : ";              // Membuat inputan jumlah element array
-        cin >> n;                                                  // Memanggil variable inputan n
+        cin >> n;                                                  // Memanggil variable inputan n 
 
         if (n <= 20)
         {    // Membuat kondisi n tidak lebih dari 20
